@@ -1,5 +1,5 @@
 [package]
-name = "The_Fibonacchi_sequence"
+name = "the_fibonacchi_sequence"
 version = "0.2.0"
 authors = ["oskar.dudzinski@yahoo.com"]
 edition = "2018"
